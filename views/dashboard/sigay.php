@@ -93,7 +93,11 @@ $data = array(
     	svgDocument.getElementById('country_name').firstChild.data = name;
 	}
 	function notify(n,url){
-	location.href="http://"+url+"/framework/dashboard/SIG/"+n
+	location.href="http://"+url+"/femg/dashboard/SIG/"+n
+	}
+	
+	function notifya(url){
+	location.href="http://"+url+"/femg/dashboard/SIGA/"
 	}
   
 ]]>
@@ -216,7 +220,8 @@ $data = array(
 	fill = "<?php echo $data['956'];?>"  stroke="black" onmouseover="displayName('Oumlaadam')" 	
 	d="M473,522 473,498 489,463 486,449 493,442 473,434 462,434 458,424 443,425 439,418 435,420 432,416 419,416 416,414 411,405 407,402 398,398 384,395 378,389 364,384 356,378 356,374 369,373 379,360 388,360 386,353 372,354 366,349 367,342 302,371 327,411 337,427 325,430 360,480 381,472 422,510 443,525 473,522"/>  
 	
-</g>	
+</g>
+<text class="labelm" id="country_namem" x="600" y="35" onclick="notifya('<?php echo $_SERVER['SERVER_NAME'];?>')"      >Algerie</text>		
 <text class="label" id="country_name" x="20" y="65"       >Commune de djelfa</text>	
 <g id="key" class="label">
 <rect x="10" y="250" width="20" height="20" class="key colour0" /><text x="35" y="265">0</text>

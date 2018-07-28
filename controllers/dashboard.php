@@ -317,6 +317,10 @@ class Dashboard extends Controller {
 				$this->view->render($this->controleur.'/sigay');
 			break;
 			
+			case 38: 
+				$this->view->render($this->controleur.'/sig38');
+			break;
+			
 			default:
 				$this->view->render($this->controleur.'/sigay');
 		}	

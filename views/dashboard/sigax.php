@@ -85,7 +85,7 @@ $data = array(
     	svgDocument.getElementById('country_name').firstChild.data = name;
 	}
 	function notify(n,url){
-	location.href="http://"+url+"/framework/dashboard/SIG/"+n
+	location.href="http://"+url+"/femg/dashboard/SIG/"+n
 	}
   
 ]]>

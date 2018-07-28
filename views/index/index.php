@@ -6,9 +6,9 @@
 <p><font color="#FF0000">*</font>&nbsp;&nbsp;&nbsp;Problème majeur de santé publique en Algérie </p>
 <p><font color="#FF0000">*</font>&nbsp;&nbsp;&nbsp;Dénouement de la grossesse = évènement heureux</p>
 <p><font color="#FF0000">*</font>&nbsp;&nbsp;&nbsp;Parfois évènement dramatique </p>
-<p><font color="#FF0000">**</font>&nbsp;&nbsp;&nbsp; Décès maternel et/ou fœtal  </p>
-<p><font color="#FF0000">**</font>&nbsp;&nbsp;&nbsp; Complications maternelles Handicap néo natal </p>
-<p><font color="#FF0000">**</font>&nbsp;&nbsp;&nbsp; Handicap néo natal </p>
+<p><font color="#FF0000">**</font>&nbsp;&nbsp;&nbsp;Décès maternel et/ou fœtal  </p>
+<p><font color="#FF0000">**</font>&nbsp;&nbsp;&nbsp;Complications maternelles  </p>
+<p><font color="#FF0000">**</font>&nbsp;&nbsp;&nbsp;Handicap néo natal </p>
 <p><font color="#FF0000">*</font>&nbsp;&nbsp;&nbsp;L’accouchement est devenu une étape stressante </p>
 <span class="import" onclick="show_popup('popup_upload')">Import CSV to MySQL</span>
 </marquee>
