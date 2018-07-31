@@ -1,0 +1,19 @@
+Principales fonctionnalités de ce logiciel de suivi :
+ 
+- Renseigner toutes les informations socio administratives de vos patientes
+
+- Compléter par les antécédents obstétricaux, gynécologiques, médicaux, chirurgicaux, etc.
+
+- Suivre la grossesse de la première consultation jusqu'en post-partum en informatisant toutes les données
+
+- Affichage de l’IMC sous forme graphique avec une progression renseignée tout au long du suivi.
+
+- Espace fichiers joints de monitoring et bilans paracliniques (Par exemple, possibilité de scanner un document et de le joindre à la fiche patiente)
+
+- Tableau récapitulatif et synthèse des antécédents obstétricaux
+
+- Courbes de croissance échographique
+
+- Historique récapitulatif de surveillance des poids et tensions artérielles sous forme d'histogramme
+
+- Enregistrer, Imprimer ou envoyer par email sous forme de bilan, une partie ou la totalité de ces informations, pour vous, vos patientes ou pour un suivi à l'hôpital. Configurez votre choix en quelques clics!

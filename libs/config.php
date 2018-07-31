@@ -8,7 +8,7 @@ define('URL', 'http://'.$_SERVER['SERVER_NAME'].dirname($_SERVER['PHP_SELF']).'/
 define('LIBS', 'libs/');
 define('DB_TYPE', 'mysql');
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'framework');
+define('DB_NAME', 'femg');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 define('title', '??????');
